@@ -1,0 +1,1 @@
+# XrossGlobal-Demo-1---File-Analyzer\n\nThis is a demo application for Streamlit. No setup is needed.\n\nThis application demonstrates the use of Streamlit and a large language model (LLM) to analyze various file types, including:\n\n- PDF\n- Word\n- Excel\n- PowerPoint\n- CSV\n- Images\n\nThis demo is for illustrative purposes only and is not offered for public use.
