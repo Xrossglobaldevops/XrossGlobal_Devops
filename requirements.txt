@@ -1,1 +1,0 @@
-docx2txt==0.8\nopenai==1.47.1\npandas==2.2.3\nPillow==10.4.0\nprotobuf==3.20.3\nPyPDF2==3.0.1\npython-dotenv==1.0.1\npython_pptx==1.0.2\nstreamlit==1.28.1\nstreamlit_authenticator==0.3.3\ngoogle-generativeai\ngoogle-ai-generativelanguage\nsetuptools
